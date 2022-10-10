@@ -1,1 +1,3 @@
-# Assignment-2-Golang
+## Getting Started
+
+<!-- Assignment-2-Hacktiv8-Golang-fendraalfian -->
